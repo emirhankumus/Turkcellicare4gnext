@@ -1,0 +1,13 @@
+.button {
+    width: 12.5rem;
+    height: 2.75rem;
+    font-size: 1.375rem;
+    font-weight: bold;
+    color: $color-primary-blue;
+    background-color: $color-primary-yellow;
+    border-radius: 1.875rem;   
+    
+    &:hover {
+        background-color: $color-primary-yellow;
+    }
+}

@@ -1,0 +1,18 @@
+/* section promo start */
+.sec-promo {
+    height: 35.625rem;
+    background-color: #DAF6FD;
+    background-image: url(/img/home-page1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    &__text {
+        width: 26.375rem;
+        font-size: 2.5rem;
+        font-weight: 300;
+        line-height: 1.3;
+        color: $color-primary-blue;
+    }
+      
+}
+/* section promo end */
