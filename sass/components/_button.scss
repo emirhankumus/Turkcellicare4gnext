@@ -5,7 +5,11 @@
     font-weight: bold;
     color: $color-primary-blue;
     background-color: $color-primary-yellow;
-    border-radius: 1.875rem;   
+    border-radius: 1.875rem;
+    border: none;
+    position: absolute;
+    margin-top: 21.25rem;
+    margin-left: 5.25rem;   
     
     &:hover {
         background-color: $color-primary-yellow;
